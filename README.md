@@ -58,4 +58,4 @@ History will store the last seven calculations with the most recent at the top</
 ([) Close user guide</br>
 (h) Toggle hishtory mode</br>
 (alt-1) Recall most recent history item (answer or problem, whichever is active)</br>
-<a>https://prashantsingh20.github.io/Scientific-Calculator/</a>
+<p>See Live Demo : https://prashantsingh20.github.io/Scientific-Calculator/</p>
